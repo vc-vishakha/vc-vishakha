@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/vishakhatak"><img src="https://api.daily.dev/devcards/v2/ZdfZd2ci42ddKjzR1agIq.png?type=wide&r=a7d" width="652" alt="Vishakha Tak's Dev Card"/></a>
+
+![Snake animation](https://github.com/vc-vishakha/vc-vishakha/blob/output/github-contribution-grid-snake.svg)
