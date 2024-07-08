@@ -2,8 +2,8 @@ name: Generate animation and Update README
 
 on:
   # run automatically every 4 hours
-  schedule:
-    - cron: "* */12 * * *"
+  # schedule:
+  #  - cron: '30 5,17 * * *'
   
   # allows to manually run the job at any time
   workflow_dispatch:
