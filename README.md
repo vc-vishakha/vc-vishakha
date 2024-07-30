@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 <a href="https://app.daily.dev/vishakhatak"><img src="https://api.daily.dev/devcards/v2/ZdfZd2ci42ddKjzR1agIq.png?type=wide&r=a7d" width="652" alt="Vishakha Tak's Dev Card"/></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vc-vishakha&size_weight=0.5&count_weight=0.5&langs_count=8)
+
+![Vishakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vc-vishakha&show_icons=true&include_all_commits=true)
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/vc-vishakha/vc-vishakha/blob/output/github-contribution-grid-snake.svg">
