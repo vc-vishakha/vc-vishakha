@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 ![Vishakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vc-vishakha&show_icons=true&include_all_commits=true) -->
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vc-vishakha&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,Handlebars" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vc-vishakha&show_icons=true&include_all_commits=true" />
+   &nbsp; &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vc-vishakha&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,Handlebars&card_width=625" /> &nbsp;
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vc-vishakha&show_icons=true&include_all_commits=true" /> -->
 </div>
 
-<div align="center">
+<div >
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/vc-vishakha/vc-vishakha/blob/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/vc-vishakha/vc-vishakha/blob/output/github-contribution-grid-snake.svg">
