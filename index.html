@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Your Name | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px 20px;
+      text-align: center;
+    }
+
+    nav {
+      margin: 20px 0;
+      text-align: center;
+    }
+
+    nav a {
+      color: #333;
+      text-decoration: none;
+      padding: 10px 20px;
+      border: 1px solid #333;
+      margin: 0 10px;
+      transition: background-color 0.3s;
+    }
+
+    nav a:hover {
+      background-color: #333;
+      color: white;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+
+    .projects,
+    .skills,
+    .about,
+    .contact {
+      margin-bottom: 40px;
+    }
+
+    .project-item,
+    .skill-item {
+      margin: 15px 0;
+    }
+
+    .contact-info {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      /*align-items: center;*/
+      margin-top: 20px;
+    }
+
+    .contact-info a {
+      font-size: 18px;
+      text-decoration: none;
+      color: #333;
+      padding: 15px 30px;
+      border: 2px solid #333;
+      border-radius: 30px;
+      width: fit-content;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .contact-info a:hover {
+      background-color: #333;
+      color: white;
+      transform: scale(1.05);
+    }
+
+    .contact-info a span {
+      font-size: 24px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #333;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Vishakha Tak</h1>
+    <p>Senior Software Developer | JavaScript, Angular, React, Node.js, Express Js</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <div class="container">
+    <!-- About Section -->
+    <section id="about" class="about">
+      <h2>About Me</h2>
+      <p>Hi, I'm a senior software developer with a passion for building amazing web applications. I specialize in
+        JavaScript, TypeScript, Angular, React, and Node.js. With over 7 years of experience, I love solving complex
+        problems and helping fellow developers grow by mentoring and sharing knowledge. I believe in continuous learning
+        and enjoy guiding others in their coding journey while contributing to impactful projects.</p>
+
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+      <h2>Projects</h2>
+      <div class="project-item">
+        <h3>Inland Management System</h3>
+        <p>The Inland Management System is a comprehensive software solution designed to streamline and optimize various
+          aspects of managing inland resources, transportation, and logistics. The system aims to improve efficiency,
+          coordination, and decision-making in the management of land-based resources and operations.</p>
+        <p><strong>Tech Stack:</strong> React (typescript), MUI, Grid, Java (Microservices), Azure cloud</p>
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+      <h2>Skills</h2>
+      <div class="skill-item">
+        <strong>Languages:</strong> JavaScript, TypeScript, HTML, CSS,
+      </div>
+      <div class="skill-item">
+        <strong>Frameworks/Libraries:</strong> Angular, React, Ionic, Rxjs
+      </div>
+      <div class="skill-item">
+        <strong>Tools:</strong> Git, Azure, Gitlab
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+      <h2>Contact</h2>
+      <div class="contact-info">
+        <a href="mailto:your-email@example.com">
+          <span>&#9993;</span> Email: vishakhatak812@gmail.com
+        </a>
+        <a href="tel:8264429048">
+          <span>&#128222;</span> Phone: +91 8264429048
+        </a>
+        <a href="https://github.com/vishakhatak09" target="_blank">
+          <span>&#128187;</span> GitHub: github.com/vishakhatak09
+        </a>
+        <a href="https://www.linkedin.com/in/vishakha-tak/" target="_blank">
+          <span>&#128100;</span> LinkedIn: linkedin.com/in/vishakha-tak
+        </a>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2024 Vishakha Tak </p>
+  </footer>
+
+</body>
+
+</html>
